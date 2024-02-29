@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FCalc", "FCalc\FCalc.fsproj", "{712C8AB1-166C-46B4-8D27-505ED3F98ECA}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Math", "Math\Math.fsproj", "{712C8AB1-166C-46B4-8D27-505ED3F98ECA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
